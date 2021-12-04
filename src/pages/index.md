@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Pay the bill in under 10 seconds
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: QR code payments testing
 subheading: QR Code payment platform for Hospitality
 mainpitch:
   title: Why Kaldi
