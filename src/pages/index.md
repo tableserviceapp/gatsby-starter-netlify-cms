@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 heading: QR code payments testing
 subheading: QR Code payment platform for Hospitality
 mainpitch:
-  title: Why Kaldi
+  title: Why QR Code payments are the future
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
